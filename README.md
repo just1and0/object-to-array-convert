@@ -23,6 +23,7 @@ $ yarn add object-to-array-convert
 #
 ```sh
 //import the O2A into your project
+import firebase from  "firebase";
 import { O2A } from 'object-to-array-convert';
 
 //and then use like so 
@@ -39,6 +40,7 @@ import { O2A } from 'object-to-array-convert';
 #
 ```sh
 //import the O2A into your project
+import firebase from  "firebase";
 import { O2A, ReverseO2A } from 'object-to-array-convert';
 
 //and then use like so 
@@ -56,6 +58,7 @@ import { O2A, ReverseO2A } from 'object-to-array-convert';
 #
 ```sh
 //import the O2A into your project
+import firebase from  "firebase";
 import { O2A, FirstO2A } from 'object-to-array-convert';
 
 //and then use like so 
