@@ -1,6 +1,6 @@
 {
   "name": "object-to-array-convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package helps you work with objects in your project, making it very easy to convert object to array and manipulate it.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/just1and0/object-to-array-convert.git"
   },
   "keywords": [
-    "converter"
+    "converter, array, object, react, react native, redux, firebase"
   ],
   "author": "Oluwatobi Shokunbi <ayoshokz@gmail.com> (https://github.com/just1and0/)",
   "license": "ISC",

@@ -98,8 +98,7 @@ import { O2A, GetNO2A } from 'object-to-array-convert';
     })
 
 ```
-#
-#
+
 
 ### Props
 
@@ -114,11 +113,9 @@ all Object-To-Array-Convert props
  
  
 
- #
- # > don't forget to star, like and share :)
+  >### don't forget to star, like and share :)
 
- #
- #
+ 
  License
 ----
 
