@@ -114,11 +114,10 @@ import { O2A, GetNO2A } from 'object-to-array-convert';
  
 #
 #
-  >### don't forget to star, like and share :)
+### don't forget to star, like and share :)
+#
 
- #
- #
- License
+## License
 ----
 
 ISC

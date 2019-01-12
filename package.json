@@ -1,6 +1,6 @@
 {
   "name": "object-to-array-convert",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This package helps you work with objects in your project, making it very easy to convert object to array and manipulate it.",
   "main": "index.js",
   "scripts": {
