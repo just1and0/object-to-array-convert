@@ -100,9 +100,9 @@ import { O2A, GetNO2A } from 'object-to-array-convert';
 ```
 
 
-### Props
+## Props
 
-all Object-To-Array-Convert props
+##all Object-To-Array-Convert props
 | Name | Use |
 | ------ | ------ |
 | O2A(data) | to convert object to array |
@@ -111,11 +111,12 @@ all Object-To-Array-Convert props
 | LastO2A(data) | Get last item in an array |
 | GetNO2A(data, number) | Get n amount of items in an array |
  
- 
-
+#
+#
   >### don't forget to star, like and share :)
 
- 
+ #
+ #
  License
 ----
 
