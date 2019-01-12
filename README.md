@@ -11,7 +11,7 @@ Add Object-To-Array-Convert to your project by executing
 
 ```sh
 $  npm install object-to-array-convert
-          or
+or
 $ yarn add object-to-array-convert
 ```
 > and that's it, you're all good to go!
