@@ -5,7 +5,7 @@
 
 This package helps you work with objects in your project, making it very easy to convert object to array and manipulate it
 
- ### Installation
+### Installation
 
 Add Object-To-Array-Convert to your project by executing
 
@@ -17,7 +17,7 @@ $ yarn add object-to-array-convert
 > and that's it, you're all good to go!
  
  
- ### Usage
+### Usage
 
 ##### To convert object to array use the "O2A"
 #
@@ -36,7 +36,7 @@ import { O2A } from 'object-to-array-convert';
 #
 
 ##### To Reverse the items in an array use the "ReverseO2A"
-###### undersatnd that the "ReverseO2A" will only reverse items in an array and nothing more. But can also be used with the "O2A".
+###### understand that the "ReverseO2A" will only reverse items in an array and nothing more. But can also be used with the "O2A".
 #
 ```sh
 //import the O2A into your project
@@ -54,7 +54,7 @@ import { O2A, ReverseO2A } from 'object-to-array-convert';
 
 
 ##### To Get the First items in an array use the "FirstO2A"
-###### undersatnd that the "FirstO2A" will only get the first items in an array and nothing more. But can also be used with the "O2A".
+###### understand that the "FirstO2A" will only get the first items in an array and nothing more. But can also be used with the "O2A".
 #
 ```sh
 //import the O2A into your project
@@ -71,7 +71,7 @@ import { O2A, FirstO2A } from 'object-to-array-convert';
 #
 
 ##### To Get the Last items in an array use the "LastO2A"
-###### undersatnd that the "LastO2A" will only get the last items in an array and nothing more. But can also be used with the "O2A".
+###### understand that the "LastO2A" will only get the last items in an array and nothing more. But can also be used with the "O2A".
 #
 ```sh
 //import the O2A into your project
@@ -87,7 +87,7 @@ import { O2A, LastO2A } from 'object-to-array-convert';
 ```
 #
 ##### To Get a specific number of item in an array use the "GetNO2A"
-###### undersatnd that the "GetNO2A" will only get the specific number of items in an array and nothing more. But can also be used with the "O2A".
+###### understand that the "GetNO2A" will only get the specific number of items in an array and nothing more. But can also be used with the "O2A".
 #
 ```sh
 //import the O2A into your project
