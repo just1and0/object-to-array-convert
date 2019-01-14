@@ -102,6 +102,23 @@ import { O2A, GetNO2A } from 'object-to-array-convert';
 
 ```
 
+#
+##### To Find out the total number of items in the array "CountO2A"
+###### understand that the "CountO2A" will only get the total number of items in an array and nothing more. But can also be used with the "O2A". 
+#
+```sh
+//import the O2A into your project
+import firebase from  "firebase";
+import { O2A, GetNO2A } from 'object-to-array-convert';
+
+//and then use like so 
+   firebase.database().ref("/user/").on('value', (data) => {
+        const value = CountO2A(O2A(data));
+        return value;
+    })
+
+```
+
 
 ## Props
 
@@ -114,6 +131,7 @@ import { O2A, GetNO2A } from 'object-to-array-convert';
 | FirstO2A(data) | Get first item in an array|
 | LastO2A(data) | Get last item in an array |
 | GetNO2A(data, number) | Get n amount of items in an array |
+| CountO2A(data) | Get total amount of items in an array |
  
 #
 #

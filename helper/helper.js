@@ -26,8 +26,14 @@ const converter = {
          return data.slice(-1)[0];
      },
 
+     // Return N number of items in array
   	GetNO2A: function(data, number){
          return data.slice(0, number);
+     },
+
+    // get total count of data in array
+     CountO2A:function(data){
+       return  data.length
      }
 
 }
