@@ -109,7 +109,7 @@ import { O2A, GetNO2A } from 'object-to-array-convert';
 ```sh
 //import the O2A into your project
 import firebase from  "firebase";
-import { O2A, GetNO2A } from 'object-to-array-convert';
+import { O2A, CountO2A } from 'object-to-array-convert';
 
 //and then use like so 
    firebase.database().ref("/user/").on('value', (data) => {
