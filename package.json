@@ -11,7 +11,7 @@
     "converter, array, object, react, react native, redux, firebase"
   ],
   "author": "Oluwatobi Shokunbi <ayoshokz@gmail.com> (https://github.com/just1and0/)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/just1and0/object-to-array-convert/issues"
   },
