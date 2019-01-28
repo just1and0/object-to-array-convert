@@ -3,9 +3,6 @@
   "version": "1.0.8",
   "description": "This package helps you work with objects in your project, making it very easy to convert object to array and manipulate it.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/just1and0/object-to-array-convert.git"
