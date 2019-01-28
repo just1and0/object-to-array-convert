@@ -138,7 +138,7 @@ import { O2A, CountO2A } from 'object-to-array-convert';
 ### don't forget to star, like and share :)
 #
 
-## License
+## Licensing
 ----
 
-ISC
+This project is licensed under MIT license.
