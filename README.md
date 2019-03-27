@@ -1,7 +1,7 @@
 # Object-To-Array-Convert
 
 
-` [![Build Status](https://travis-ci.com/just1and0/object-to-array-convert.svg?branch=master)](https://travis-ci.com/just1and0/object-to-array-convert/) [![Code Quality](https://scrutinizer-ci.com/g/just1and0/object-to-array-convert/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/just1and0/object-to-array-convert/?branch=master) `
+[![Build Status](https://travis-ci.com/just1and0/object-to-array-convert.svg?branch=master)](https://travis-ci.com/just1and0/object-to-array-convert/) [![Code Quality](https://scrutinizer-ci.com/g/just1and0/object-to-array-convert/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/just1and0/object-to-array-convert/?branch=master) 
 
 This package helps you work with objects in your project, making it very easy to convert object to array and manipulate it
 
