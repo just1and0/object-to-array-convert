@@ -2,12 +2,11 @@ const converter = {
 	// convert list of object to an array
     O2A: function(data){
 		 const converted = []
-	 	  //LOOPING EACH CHILD AND PUSHING TO ARRAY
-		  data.forEach(item => {
-		      const temp = item.val();
-		      converted.push(temp);
-
-		  });
+	 	//LOOPING EACH CHILD AND PUSHING TO ARRAY
+         for (const [key, value] of Object.entries(data.val())) {
+                   value['object_key'] = key;
+                   converted.push(value);
+          } 
 		  return converted;
     },
 

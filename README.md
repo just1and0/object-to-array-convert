@@ -24,7 +24,7 @@ $ yarn add object-to-array-convert
 ### Usage
 
 ##### To convert object to array use the "O2A"
-#
+
 ```sh
 //import the O2A into your project
 import firebase from  "firebase";
@@ -37,11 +37,12 @@ import { O2A } from 'object-to-array-convert';
     })
 
 ```
+###### NOTE: The O2A() api will add a new field to your record called object_key, which is the key of that item in the array.
 #
 
 ##### To Reverse the items in an array use the "ReverseO2A"
 ###### understand that the "ReverseO2A" will only reverse items in an array and nothing more. But can also be used with the "O2A".
-#
+
 ```sh
 //import the O2A into your project
 import firebase from  "firebase";
@@ -59,7 +60,7 @@ import { O2A, ReverseO2A } from 'object-to-array-convert';
 
 ##### To Get the First items in an array use the "FirstO2A"
 ###### understand that the "FirstO2A" will only get the first items in an array and nothing more. But can also be used with the "O2A".
-#
+
 ```sh
 //import the O2A into your project
 import firebase from  "firebase";
@@ -76,7 +77,7 @@ import { O2A, FirstO2A } from 'object-to-array-convert';
 
 ##### To Get the Last items in an array use the "LastO2A"
 ###### understand that the "LastO2A" will only get the last items in an array and nothing more. But can also be used with the "O2A".
-#
+
 ```sh
 //import the O2A into your project
 import firebase from  "firebase";
@@ -92,7 +93,7 @@ import { O2A, LastO2A } from 'object-to-array-convert';
 #
 ##### To Get a specific number of item in an array use the "GetNO2A"
 ###### understand that the "GetNO2A" will only get the specific number of items in an array and nothing more. But can also be used with the "O2A".
-#
+
 ```sh
 //import the O2A into your project
 import firebase from  "firebase";
@@ -109,7 +110,7 @@ import { O2A, GetNO2A } from 'object-to-array-convert';
 #
 ##### To Find out the total number of items in the array "CountO2A"
 ###### understand that the "CountO2A" will only get the total number of items in an array and nothing more. But can also be used with the "O2A". 
-#
+
 ```sh
 //import the O2A into your project
 import firebase from  "firebase";
@@ -127,7 +128,7 @@ import { O2A, CountO2A } from 'object-to-array-convert';
 ## Props
 
 #### all Object-To-Array-Convert props
-#
+
 | Name | Use |
 | ------ | ------ |
 | O2A(data) | to convert object to array |
@@ -138,11 +139,13 @@ import { O2A, CountO2A } from 'object-to-array-convert';
 | CountO2A(data) | Get total amount of items in an array |
  
 #
-#
+
 ### don't forget to star, like and share :)
-#
 
+
+## Contributions
+What to help make this package even more awesome? Read the how to Contribution
+
+  
 ## Licensing
-----
-
 This project is licensed under MIT license.
