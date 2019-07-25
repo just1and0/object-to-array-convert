@@ -144,7 +144,7 @@ import { O2A, CountO2A } from 'object-to-array-convert';
 
 
 ## Contributions
-What to help make this package even more awesome?  [Read how to contribute](https://github.com/just1and0/object-to-array-convert/blob/master/README.mdhttps://github.com/just1and0/object-to-array-convert/blob/master/contribution.md) 
+What to help make this package even more awesome?  [Read how to contribute](https://github.com/just1and0/object-to-array-convert/blob/master/contribution.md) 
 
   
 ## Licensing
